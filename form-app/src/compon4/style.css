@@ -1,0 +1,48 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    background-color:aliceblue
+}
+.title{
+    background-color: rgb(217, 207, 193);
+}
+.user-details{
+    width: 500px;
+    margin: auto;
+    padding: 40px;
+    border:1px solid black;
+}
+.input-box{
+    background-color: rgb(214, 208, 203);
+    width: 400px;
+    padding: 10px;
+    margin:10px;
+}
+input{
+    padding: 10px;
+}
+button {
+    background-color: aliceblue;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
+.block-info{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+
+
+
+
+
+
+}
+.info{
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+}
